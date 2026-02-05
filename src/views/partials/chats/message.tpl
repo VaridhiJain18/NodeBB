@@ -26,6 +26,8 @@
 			<div class="btn-group border shadow-sm controls position-absolute bg-body end-0" style="bottom:1rem;">
 				<!-- IMPORT partials/chats/add-reaction.tpl -->
 				<button class="btn btn-sm btn-link" data-action="reply" title="[[topic:reply]]"><i class="fa fa-reply"></i></button>
+				<button class="btn btn-sm btn-link" data-action="forward" title="Forward"><i class="fa fa-share"></i></button>
+
 
 				<div class="btn-group d-inline-block">
 					<button class="btn btn-sm btn-link dropdown-toggle" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-ellipsis" type="button"></i></button>
